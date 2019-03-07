@@ -16,7 +16,8 @@ pip install requests
 # TA please see this part :D
 
 ## Level 1 : 
-	<img src="https://github.com/peter9503/Fintech-HW0/blob/master/img/p1.png" width="500">
+Picture here
+<img src="https://github.com/peter9503/Fintech-HW0/blob/master/img/p1.png" width="500">
 
 ## Level 2 : 
 Code is in code/HW0_2.py, please check. I extract them from liberty_times_crawler.ipynb.
